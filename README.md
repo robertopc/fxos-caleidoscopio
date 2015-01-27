@@ -8,7 +8,7 @@ See demo here https://robertopc.github.io/fxos-kaleidoscope
 
 ## Derivative
 
-Derivative of the [Kaleidos repository](https://github.com/coldhead/kaleidos) by @coldhead
+Derivative of the [Kaleidos repository](https://github.com/coldhead/kaleidos) by [@coldhead](https://github.com/coldhead)
 
 ## Terms & Conditions
 
