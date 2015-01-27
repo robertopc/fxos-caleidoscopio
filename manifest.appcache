@@ -1,0 +1,12 @@
+CACHE MANIFEST
+
+# Time: Tue Jan 27 2015 19:23:44 GMT+0000 (UTC)
+
+CACHE:
+index.html
+js/kaleidoscope.js
+js/app_installer.js
+css/kaleidoscope.css
+
+NETWORK:
+*
