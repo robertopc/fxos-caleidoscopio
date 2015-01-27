@@ -13,7 +13,7 @@
     <a href="javascript:window.history.go(-1)">&#8592; Go back</a>
     <script>
         // This URL must be a full url.
-        var manifestUrl = 'http://robertopc.github.io/fxos-kaleidoscope/install.webapp';
+        var manifestUrl = 'https://robertopc.github.io/fxos-kaleidoscope/install.webapp';
         var req = navigator.mozApps.install(manifestUrl);
         req.onsuccess = function() {
             document.getElementById('msg').innerHTML = "Successful installation!";
