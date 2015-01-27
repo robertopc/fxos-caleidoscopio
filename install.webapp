@@ -9,11 +9,9 @@
         "url": "http://robertopc.net"
     },
     "icons": {
-        "60": "/icons/60.png",
-        "128": "/icons/128.png"
+        "60": "https://robertopc.github.io/fxos-kaleidoscope/icons/60.png",
+        "128": "https://robertopc.github.io/fxos-kaleidoscope/icons/128.png"
     },
-    "orientation": ["portrait"],
-    "fullscreen": "true",
     "installs_allowed_from": ["*"],
     "default_locale": "en-US",
     "locales": {
