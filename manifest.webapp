@@ -2,14 +2,14 @@
     "version": "1.0.0",
     "name": "Kaleidoscope",
     "description": "Kaleidoscope using your camera or photos",
-    "launch_path": "/index.html",
+    "launch_path": "index.html",
     "developer": {
         "name": "RobertoPC",
         "url": "http://robertopc.net"
     },
     "icons": {
-        "60": "/icons/60.png",
-        "128": "/icons/128.png"
+        "60": "icons/60.png",
+        "128": "icons/128.png"
     },
     "orientation": ["portrait"],
     "fullscreen": "true",

@@ -8,10 +8,6 @@
         "name": "RobertoPC",
         "url": "http://robertopc.net"
     },
-    "icons": {
-        "60": "https://robertopc.github.io/fxos-kaleidoscope/icons/60.png",
-        "128": "https://robertopc.github.io/fxos-kaleidoscope/icons/128.png"
-    },
     "installs_allowed_from": ["*"],
     "default_locale": "en-US",
     "locales": {
