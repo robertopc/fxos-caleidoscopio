@@ -1,0 +1,25 @@
+{
+    "version": "1.0.0",
+    "name": "Kaleidoscope",
+    "description": "Kaleidoscope using your camera or photos",
+    "package_path": "https://robertopc.github.io/fxos-kaleidoscope/kaleidoscope.zip",
+    "size": 260593,
+    "developer": {
+        "name": "RobertoPC",
+        "url": "http://robertopc.net"
+    },
+    "icons": {
+        "60": "/icons/60.png",
+        "128": "/icons/128.png"
+    },
+    "orientation": ["portrait"],
+    "fullscreen": "true",
+    "installs_allowed_from": ["*"],
+    "default_locale": "en-US",
+    "locales": {
+        "pt-BR": {
+            "name": "Caleidoscópio",
+            "description": "Caleidoscópio usando sua câmera ou fotos"
+        }
+    }
+}
